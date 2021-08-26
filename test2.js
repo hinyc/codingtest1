@@ -28,5 +28,3 @@ function solution(numbers) {
 
   // return answer;
 }
-
-solution(numbers);
